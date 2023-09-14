@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-starter';
-  version = 'Angular version 13.3.4';
+  title = 'angular-lazy-loading';
+  version = '';
 }
